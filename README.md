@@ -30,19 +30,12 @@ I care about doing things securely, not just making them work — rate limiting,
 
 📦 [View the repo](https://github.com/harshithcodesfr-blip/Cobbleverse_Site) · always building something new — this is just the current one.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshithcodesfr-blip&show_icons=true&theme=radical&hide_border=true&title_color=DC2626&icon_color=1D4ED8" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithcodesfr-blip&layout=compact&theme=radical&hide_border=true&title_color=DC2626" alt="Top Languages" height="165" />
-</p>
-
 ## 📫 Connect with Me
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-sensei__red-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <a href="https://instagram.com/harshthredrouthu" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@harshthredrouthu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/harshithredrouthu" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@harshithredrouthu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://cobbleverse-site.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Website-Cobbleverse-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
