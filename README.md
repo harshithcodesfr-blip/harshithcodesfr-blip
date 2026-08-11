@@ -14,11 +14,23 @@ Just your friendly neighborhood developer — building things, breaking things (
 
 <p align="center"><i>The core languages and tools I build with.</i></p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,git,github,cloudflare,vercel&perline=6" alt="Languages & Tools" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/><br/><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare"/><br/><sub><b>Cloudflare</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/><br/><sub><b>Vercel</b></sub></td>
+  </tr>
+</table>
 
 ## 🔐 Security Mindset
 
