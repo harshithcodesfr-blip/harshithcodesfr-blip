@@ -12,7 +12,7 @@ Just your friendly neighborhood developer — building things, breaking things (
 
 ## 🛠️ Languages & Tools
 
-<p align="center"><i>The core languages and tools I build with.</i></p>
+### 💻 Languages I Know
 
 <table align="center">
   <tr>
@@ -20,9 +20,26 @@ Just your friendly neighborhood developer — building things, breaking things (
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua"/><br/><sub><b>Lua</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/><br/><sub><b>HTML5</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/><br/><sub><b>CSS3</b></sub></td>
   </tr>
+</table>
+
+### 🤖 AI & Data
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/><br/><sub><b>PyCharm</b></sub></td>
+  </tr>
+</table>
+
+### ⚙️ Dev & Deployment Tools
+
+<table align="center">
   <tr>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/><br/><sub><b>Node.js</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
