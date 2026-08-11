@@ -32,7 +32,7 @@ Just your friendly neighborhood developer — building things, breaking things (
 
 <table align="center">
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm"/><br/><sub><b>PyCharm</b></sub></td>
   </tr>
 </table>
