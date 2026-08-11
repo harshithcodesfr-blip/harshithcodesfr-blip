@@ -22,23 +22,19 @@ Just your friendly neighborhood developer — building things, breaking things (
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-DC2626?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1D4ED8?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-DC2626?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<p align="center"><i>The core languages and tools powering my projects.</i></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,java,cpp,html,css,nodejs,git,github,cloudflare,vercel&perline=6" alt="Languages & Tools" />
+  </a>
 </p>
 
 ## 🔐 Security Corner
 
-Cyber security is something I actively lean into, not just a buzzword — Cobbleverse's backend layers IP-based rate limiting with device-fingerprint checks to stop simple VPN-hopping abuse, keeps its API key server-side only, and locks CORS down to an explicit origin allowlist instead of a wildcard. Always learning, always hardening.
+<p align="center"><i>Not just a buzzword — actually shipped.</i></p>
+
+Cobbleverse's backend layers IP-based rate limiting with device-fingerprint checks to stop simple VPN-hopping abuse, keeps its API key server-side only, and locks CORS down to an explicit origin allowlist instead of a wildcard. Always learning, always hardening.
 
 ## 📊 GitHub Stats
 
@@ -50,6 +46,9 @@ Cyber security is something I actively lean into, not just a buzzword — Cobble
 ## 📫 Connect with Me
 
 <p align="left">
+  <a href="https://cobbleverse-site.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Cobbleverse-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Discord-sensei__red-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <a href="https://instagram.com/harshthredrouthu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@harshthredrouthu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
