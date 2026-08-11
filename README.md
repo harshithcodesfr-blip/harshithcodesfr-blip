@@ -75,9 +75,6 @@ I care about doing things securely, not just making them work — rate limiting,
   <a href="https://instagram.com/harshithredrouthu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@harshithredrouthu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://cobbleverse-site.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Cobbleverse-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
