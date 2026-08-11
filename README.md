@@ -37,6 +37,15 @@ Just your friendly neighborhood developer — building things, breaking things (
   </tr>
 </table>
 
+### 🕵️ Cyber Security
+
+<table align="center">
+  <tr>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/wireshark/1679A7" width="48" height="48" alt="Wireshark"/><br/><sub><b>Wireshark</b></sub></td>
+    <td align="center" width="90"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="48" height="48" alt="Burp Suite"/><br/><sub><b>Burp Suite</b></sub></td>
+  </tr>
+</table>
+
 ### ⚙️ Dev & Deployment Tools
 
 <table align="center">
